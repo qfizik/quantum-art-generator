@@ -21,7 +21,7 @@ Here's something for you to try: in the Custom Noise mode, set both P(meas) and 
 
 If you want to run it on a actual quantum device, or just have a local copy of this follow the following step:
 
-1. Clone the git repository from [Github](https://github.com/quantum-kittens/quantum-prompt-generator).
+1. Clone the git repository from [Github](https://github.com/quantum-kittens/quantum-prompt-generator) or git clone https://github.com/quantum-kittens/quantum-prompt-generator.git.
 2. `cd` into the git repository.
 3. Execute `pip install -r requirements.txt`.
 4. Execute `export FLASK_APP=app.py`
